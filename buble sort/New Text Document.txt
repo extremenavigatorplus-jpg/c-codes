@@ -1,0 +1,22 @@
+# Simple Bubble Sort in C
+
+A minimal and easy-to-understand implementation of the **Bubble Sort** algorithm written in C. This project is designed for educational purposes to demonstrate how basic sorting works.
+
+## 🚀 How It Works
+Bubble Sort is a comparison-based algorithm where each pair of adjacent elements is compared and the elements are swapped if they are not in order.
+
+
+
+- **Time Complexity:** $O(n^2)$
+- **Space Complexity:** $O(1)$ (In-place)
+
+## 🛠️ Requirements
+To run this code, you need a C compiler installed on your system, such as:
+* **GCC** (GNU Compiler Collection)
+* **Clang**
+* **MSVC** (Visual Studio)
+
+## 💻 How to Run
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/your-username/bubble-sort-c.git](https://github.com/your-username/bubble-sort-c.git)
